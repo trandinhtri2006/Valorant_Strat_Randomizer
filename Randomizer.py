@@ -49,8 +49,6 @@ with open("Output.txt", "w", encoding="utf-8") as file:
         else:
             file.write("Ending C\n")
         
-
-
         
     # CT side
-    
+    file.write("Defender:\n")
